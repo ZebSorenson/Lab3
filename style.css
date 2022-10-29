@@ -1,0 +1,68 @@
+.navbar{
+    background-color: #333;
+    height: 100px;
+    color:whitesmoke;
+    margin-bottom:15px;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+
+.NavigationBar{
+
+    display: block;
+    padding: 30px 100px;
+    
+    text-align: center;
+  
+     background-color: gray;
+
+
+
+}
+
+.NavigationBar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  .NavigationBar a:hover {
+    background-color: green;
+    color: black;
+  }
+
+  .photo-card{
+    text-align: center;
+  }
+
+
+
+  .all-browsers {
+    margin: 0;
+    padding: 5px;
+    background-image: url("https://images.unsplash.com/photo-1559562591-6de6f7187f56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGJyYXppbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
+  }
+
+  .all-browsers > h1, .browser {
+    margin: 10px;
+    padding: 5px;
+  }
+
+  .browser {
+    background: white;
+  }
+
+  .form{
+    text-size: 500 px;
+  }
+
+
+
